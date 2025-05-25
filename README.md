@@ -45,16 +45,6 @@ WIDER FACE Validation Images (WIDER_val.zip)
 
 WIDER FACE Annotations (wider_face_split.zip)
 
-解压后目录结构如下：
-
-kotlin
-复制
-编辑
-data/
-├── WIDER_train/
-├── WIDER_val/
-└── wider_face_split/
-
 
 ## Reference:
 
@@ -62,4 +52,4 @@ data/
 
 [serengil/retinaface](https://github.com/serengil/retinaface)
 
-数据集来源：WIDER FACE
+数据集来源：[WIDER FACE](https://shuoyang1213.me/WIDERFACE/)
