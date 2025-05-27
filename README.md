@@ -52,4 +52,4 @@ WIDER FACE Annotations (wider_face_split.zip)
 
 [serengil/retinaface](https://github.com/serengil/retinaface)
 
-数据集来源：[WIDER FACE](https://shuoyang1213.me/WIDERFACE/)
+数据集来源：[WIDER FACE][(https://shuoyang1213.me/WIDERFACE/)](https://www.kaggle.com/datasets/mksaad/wider-face-a-face-detection-benchmark?select=WIDER_train)
